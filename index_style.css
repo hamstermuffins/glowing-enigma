@@ -1,0 +1,11 @@
+body {
+	background-color: gray;
+}
+p {
+	font-family: courier;
+	text-align: center;
+	font-size: 120%;
+}
+img {
+	display: block;
+	margin: auto;
