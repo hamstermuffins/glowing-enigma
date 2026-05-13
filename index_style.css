@@ -8,6 +8,7 @@ p {
 	font-family: courier;
 	text-align: center;
 	font-size: 120%;
+	margin: 100px;
 }
 img {
 	display: block;
